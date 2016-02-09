@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4738095_0003.png"; bbox 0 0 3154 4029; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 502 410 2686 572">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 502 410 2686 572">
+     <span class='ocr_line' id='line_1_1' title="bbox 502 410 2686 572; baseline 0.007 -37"><span class='ocrx_word' id='word_1_1' title='bbox 502 410 1300 545; x_wconf 82' lang='lat' dir='ltr'><strong>AUTHOR:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1407 422 2313 572; x_wconf 76' lang='lat' dir='ltr'>WesterWiCK,</span> <span class='ocrx_word' id='word_1_3' title='bbox 2374 426 2686 551; x_wconf 80' lang='lat' dir='ltr'>Karl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 493 1038 2289 1386">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 493 1038 2289 1386">
+     <span class='ocr_line' id='line_1_2' title="bbox 497 1038 2142 1212; baseline 0.009 -52"><span class='ocrx_word' id='word_1_4' title='bbox 497 1038 1038 1166; x_wconf 88' lang='lat' dir='ltr'><strong>TITLE:</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1148 1044 1355 1170; x_wconf 81' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_6' title='bbox 1407 1047 2142 1212; x_wconf 80' lang='lat' dir='ltr'>Republica</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 493 1246 2289 1386; baseline 0.008 -15"><span class='ocrx_word' id='word_1_7' title='bbox 493 1246 1075 1377; x_wconf 81' lang='lat' dir='ltr'>Platonis</span> <span class='ocrx_word' id='word_1_8' title='bbox 1133 1258 2074 1385; x_wconf 80' lang='lat' dir='ltr'>commentatio</span> <span class='ocrx_word' id='word_1_9' title='bbox 2146 1364 2289 1386; x_wconf 92' lang='lat'>...</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 486 1874 1991 2214">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 486 1874 1991 2214">
+     <span class='ocr_line' id='line_1_4' title="bbox 486 1874 1991 2009; baseline 0.008 -12"><span class='ocrx_word' id='word_1_10' title='bbox 486 1874 1101 2003; x_wconf 80' lang='lat' dir='ltr'>PLACE:</span> <span class='ocrx_word' id='word_1_11' title='bbox 1209 1880 1991 2009; x_wconf 79' lang='lat' dir='ltr'>Monasterii</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 488 2082 1488 2214; baseline 0.007 -6"><span class='ocrx_word' id='word_1_12' title='bbox 488 2082 1488 2214; x_wconf 80' lang='lat' dir='ltr'>Guestfalorum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 475 2713 1463 2844">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 475 2713 1463 2844">
+     <span class='ocr_line' id='line_1_6' title="bbox 475 2713 1463 2844; baseline 0.01 -9"><span class='ocrx_word' id='word_1_13' title='bbox 475 2713 998 2841; x_wconf 78' lang='lat' dir='ltr'>DATE:</span> <span class='ocrx_word' id='word_1_14' title='bbox 1126 2717 1463 2844; x_wconf 82' lang='lat'>1887</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 3154 4029">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 3154 4029">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 3154 4029; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 3154 4029; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
